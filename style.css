@@ -1,0 +1,17 @@
+div {
+    float: left;
+}
+
+#head {
+    color: #660000;
+}
+
+.red {
+    color: #660000;
+    font-style: italic;
+}
+
+.blue {
+    color: black;
+    font-style: oblique;
+}
